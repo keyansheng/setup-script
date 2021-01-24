@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "homepage": "https://github.com/keyansheng/setup-script",
+    "license": "MIT",
+    "url": "https://github.com/keyansheng/setup-script/releases/download/v1.0.0/setup-script.psm1",
+    "hash": "fc92277fc7e4569a47cb2cd6e9a6439d00ce4eb57099bf790d7c45733164e74e",
+    "psmodule": {
+        "name": "setup-script"
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/keyansheng/setup-script/releases/download/v$version/setup-script.psm1"
+    }
+}
